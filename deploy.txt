@@ -1,0 +1,5 @@
+npx now,
+input your email,
+verify in your email,
+npx now,
+take the adress, it's your real domain: project.email.now.sh
